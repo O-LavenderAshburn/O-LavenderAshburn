@@ -1,16 +1,34 @@
-## Hi there 👋
+## 🧭 Main Expertise And Interests
 
-<!--
-**O-LavenderAshburn/O-LavenderAshburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- React Frontend Development ⚛️
+- Python Tooling And Automation 🐍
+- Embedded C 👾
+- Cybersecurity & Malware 🔐
 
-Here are some ideas to get you started:
+---
+## 📈 Currently working on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automated source code generation
+- Bluetooth Low Energy Topic Exploration
+---
+
+## 📦 Technologies
+
+### 🖥️ Programming & Scripting Languages
+- 🐍 Python • 🧬 C / C++ • 🐧 Bash • 🔧 PowerShell • 🕸️ JavaScript / TypeScript
+- ☕ Java • 💎 Ruby  ⛓️ Assembly (x86, x64, ARM) • 📜 SQL
+
+### 📎 Operating Systems & Environments
+- 🐧 Kali Linux, Ubuntu
+- 🪟 Windows 10/11 
+- 🍎 macOS
+- 💻 VirtualBox, VMware, Docker, WSL
+
+### 🦠 Malware Research & Forensics
+- 🧪 Autopsy, FTK Imager, Sleuth Kit, Binwalk, Steg
+- 🧾 Procmon, RegShot, WinDbg
+- 🕵️‍♂️ Mem dump, Timeline reconstruction, Evidence collection, Case building  
+- 🐜 IDA, OLIdbg, dotPeek
+
+
+
