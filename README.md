@@ -7,9 +7,10 @@
 
 ---
 ## Currently working on 
-
+- Automated program analysis
 - Automated source code generation
-- Bluetooth Low Energy Topic Exploration
+- Bluetooth low energy topic exploration
+- Database design
 ---
 
 ## Technologies
