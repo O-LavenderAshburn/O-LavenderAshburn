@@ -12,6 +12,10 @@ I'm a software developer with a strong background in test engineering, cloud tec
 
 Beyond testing and security, I enjoy full-stack development, working with React, TypeScript, Node.js, and MySQL to build scalable applications. Some of my recent projects at university include implementing advanced stack-based operations in Stack Deluxe in Ruby. I'm always eager to tackle complex challenges, optimize performance, and build secure, efficient systems.
 
+#### My Coding Playlist
+[Here](https://open.spotify.com/playlist/2xeeWvNIJZwm5FWjczwNZk?si=ff9a3cc51f6f47b8)
+
+
 ---
 ## Currently working on 
 - [Notification integration project](https://github.com/O-LavenderAshburn/GitFisher) 
