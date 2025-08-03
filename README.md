@@ -1,17 +1,33 @@
 ## Main Expertise And Interests
-
 - React Frontend Development 
 - Python Tooling And Automation 
 - Embedded C 
 - Cybersecurity & Malware 
 
+## Personal Statment
+
+#### Me
+
+I'm a software developer with a strong background in test engineering, cloud technologies, and cybersecurity. My experience includes working with Python-based test automation, Git workflows in an IoT work environment and ensuring software quality through rigorous testing. I also have hands-on knowledge of AWS services, including Identity and Access Management (IAM) for secure cloud environments. My cybersecurity background helps me design and build secure applications, focusing on access control, data protection, and best security practices.
+
+Beyond testing and security, I enjoy full-stack development, working with React, TypeScript, Node.js, and MySQL to build scalable applications. Some of my recent projects at university include implementing advanced stack-based operations in Stack Deluxe in Ruby. I'm always eager to tackle complex challenges, optimize performance, and build secure, efficient systems.
+
 ---
 ## Currently working on 
-- Automated program analysis
+- [Notification integration project](https://github.com/O-LavenderAshburn/GitFisher) 
+- [Automated program analysis (AST Tree Traversal)](JavaSyntaxTrees-ANTLR4-and-JavaParser)
 - Automated source code generation
 - Bluetooth low energy topic exploration
 - Database design
 ---
+
+## Personal Favs from University
+- [Regex Compiler and Searcher](https://github.com/O-LavenderAshburn/regex) 
+- [Multitasking WRAMP Kernel](https://github.com/O-LavenderAshburn/Multitasking-Kernel)
+- [AES Encryption](https://github.com/O-LavenderAshburn/AES-Encryption)
+
+## Written Work
+- [Malware Analysis] (https://github.com/O-LavenderAshburn/Knowledgebase_MalwareAnalysis)
 
 ## Technologies
 
@@ -30,6 +46,9 @@
 -  Procmon, RegShot, WinDbg
 -  Mem dump, Timeline reconstruction, Evidence collection, Case building  
 -  IDA, OLIdbg, dotPeek
+
+
+
 
 
 
