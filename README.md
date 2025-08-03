@@ -31,7 +31,7 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 - [AES Encryption](https://github.com/O-LavenderAshburn/AES-Encryption)
 
 ## Written Work
-- [Malware Analysis] (https://github.com/O-LavenderAshburn/Knowledgebase_MalwareAnalysis)
+- [Malware Analysis](https://github.com/O-LavenderAshburn/Knowledgebase_MalwareAnalysis)
 
 ## Technologies
 
