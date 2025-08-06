@@ -35,9 +35,12 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 
 ## Technologies
 
-### Programming & Scripting Languages
--  Python •  C / C++ •  Bash •  PowerShell • JavaScript / TypeScript
--  Java •  Ruby  Assembly (x86, x64, ARM) •  SQL
+### "Good" At
+-  Python • TypeScript • Java
+
+### Other Programming & Scripting Languages
+-  C / C++ •  Bash  • JavaScript
+-  • Ruby • Assembly (x86, x64)
 
 ### Operating Systems & Environments
 -  Kali Linux, Ubuntu
