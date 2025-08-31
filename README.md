@@ -19,10 +19,8 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 ---
 ## Currently working on 
 - [Notification integration project](https://github.com/O-LavenderAshburn/GitFisher) 
-- [Automated program analysis (AST Tree Traversal)](JavaSyntaxTrees-ANTLR4-and-JavaParser)
-- Automated source code generation
-- Bluetooth low energy topic exploration
-- Database design
+- [Bluetooth Low Energy, Healthcare IoT Implementation](https://github.com/O-LavenderAshburn/HeathcareBLETermPaper)
+- Neo4j Database Design/Concepts
 ---
 
 ## Personal Favs from University
@@ -32,6 +30,7 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 
 ## Written Work
 - [Malware Analysis](https://github.com/O-LavenderAshburn/Knowledgebase_MalwareAnalysis)
+- [Bluetooth Low Energy, Healthcare IoT Implementation](https://github.com/O-LavenderAshburn/HeathcareBLETermPaper)
 
 ## Technologies
 
