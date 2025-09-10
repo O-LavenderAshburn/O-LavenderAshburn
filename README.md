@@ -18,9 +18,9 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 
 ---
 ## Currently working on 
+- [Certificate transparency subdomain IP resolver ](https://github.com/O-LavenderAshburn/crtResolve)
 - [Notification integration project](https://github.com/O-LavenderAshburn/GitFisher) 
 - [Bluetooth Low Energy, Healthcare IoT Implementation](https://github.com/O-LavenderAshburn/HeathcareBLETermPaper)
-- Neo4j Database Design/Concepts
 ---
 
 ## Personal Favs from University
