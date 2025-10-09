@@ -24,6 +24,7 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 ---
 
 ## Personal Favs from University
+- [Environmental_Sensors](https://github.com/O-LavenderAshburn/Environmental_Sensors)
 - [Regex Compiler and Searcher](https://github.com/O-LavenderAshburn/regex) 
 - [Multitasking WRAMP Kernel](https://github.com/O-LavenderAshburn/Multitasking-Kernel)
 - [AES Encryption](https://github.com/O-LavenderAshburn/AES-Encryption)
