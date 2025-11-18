@@ -42,12 +42,6 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 -  C / C++ •  Bash  • JavaScript
 -  • Ruby • Assembly (x86, x64)
 
-### Operating Systems & Environments
--  Kali Linux, Ubuntu
--  Windows 10/11 
--  macOS
--  VirtualBox, VMware, Docker, WSL
-
 ### Malware Research & Forensics
 -  Autopsy, FTK Imager, Sleuth Kit, Binwalk, Steg
 -  Procmon, RegShot, WinDbg
