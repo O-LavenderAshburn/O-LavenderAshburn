@@ -18,10 +18,15 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 
 ---
 ## Currently working on 
-- [Certificate transparency subdomain IP resolver ](https://github.com/O-LavenderAshburn/crtResolve)
 - [Notification integration project](https://github.com/O-LavenderAshburn/GitFisher) 
-- [Bluetooth Low Energy, Healthcare IoT Implementation Paper](https://github.com/O-LavenderAshburn/HeathcareBLETermPaper)
+- [Shadow Shodan, A lightweight Shodan API Interface](https://github.com/O-LavenderAshburn/ShadowShodan)
+- [SpyGlass, IP reputation reslover](https://github.com/O-LavenderAshburn/0x53pyglass)
 ---
+
+## Cybersecurity
+- [Certificate transparency subdomain IP resolver ](https://github.com/O-LavenderAshburn/crtResolve)
+- [Shadow Shodan, A lightweight Shodan API Interface](https://github.com/O-LavenderAshburn/ShadowShodan)
+- [SpyGlass, IP reputation reslover](https://github.com/O-LavenderAshburn/0x53pyglass)
 
 ## Personal Favs from University
 - [Environmental_Sensors](https://github.com/O-LavenderAshburn/Environmental_Sensors)
@@ -32,6 +37,10 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 ## Written Work
 - [Malware Analysis](https://github.com/O-LavenderAshburn/Knowledgebase_MalwareAnalysis)
 - [Bluetooth Low Energy, Healthcare IoT Implementation](https://github.com/O-LavenderAshburn/HeathcareBLETermPaper)
+
+### In Progress
+
+- Masters of Computer Science Research survey 
 
 ## Technologies
 
