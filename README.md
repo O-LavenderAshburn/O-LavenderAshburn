@@ -19,6 +19,7 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 
 ---
 ## Currently working on 
+- QUIC Protocol Machine Learning Intergration
 - [Notification integration project](https://github.com/O-LavenderAshburn/GitFisher) 
 - [Shadow Shodan, A lightweight Shodan API Interface](https://github.com/O-LavenderAshburn/ShadowShodan)
 - [SpyGlass, IP reputation reslover](https://github.com/O-LavenderAshburn/0x53pyglass)
