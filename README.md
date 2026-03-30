@@ -1,7 +1,8 @@
 ## Main Expertise And Interests
 - React Frontend Development 
 - Python Tooling And Automation 
-- Embedded C 
+- Embedded C
+- C for Windows
 - Cybersecurity & Malware 
 
 ## Personal Statment
@@ -39,10 +40,6 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 ## Written Work
 - [Malware Analysis](https://github.com/O-LavenderAshburn/Knowledgebase_MalwareAnalysis)
 - [Bluetooth Low Energy, Healthcare IoT Implementation](https://github.com/O-LavenderAshburn/HeathcareBLETermPaper)
-
-### In Progress
-
-- Masters of Computer Science Research survey 
 
 ## Technologies
 
