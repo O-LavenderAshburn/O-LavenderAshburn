@@ -26,17 +26,6 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 - [SpyGlass, IP reputation reslover](https://github.com/O-LavenderAshburn/0x53pyglass)
 ---
 
-## Cybersecurity
-- [Certificate transparency subdomain IP resolver ](https://github.com/O-LavenderAshburn/crtResolve)
-- [Shadow Shodan, A lightweight Shodan API Interface](https://github.com/O-LavenderAshburn/ShadowShodan)
-- [SpyGlass, IP reputation reslover](https://github.com/O-LavenderAshburn/0x53pyglass)
-
-## Personal Favs from University
-- [Environmental_Sensors](https://github.com/O-LavenderAshburn/Environmental_Sensors)
-- [Regex Compiler and Searcher](https://github.com/O-LavenderAshburn/regex) 
-- [Multitasking WRAMP Kernel](https://github.com/O-LavenderAshburn/Multitasking-Kernel)
-- [AES Encryption](https://github.com/O-LavenderAshburn/AES-Encryption)
-
 ## Written Work
 - [Malware Analysis](https://github.com/O-LavenderAshburn/Knowledgebase_MalwareAnalysis)
 - [Bluetooth Low Energy, Healthcare IoT Implementation](https://github.com/O-LavenderAshburn/HeathcareBLETermPaper)
@@ -49,15 +38,3 @@ Beyond testing and security, I enjoy full-stack development, working with React,
 ### Other Programming & Scripting Languages
 -  C / C++ •  Bash  • JavaScript
 -  • Ruby • Assembly (x86, x64)
-
-### Malware Research & Forensics
--  Autopsy, FTK Imager, Sleuth Kit, Binwalk, Steg
--  Procmon, RegShot, WinDbg
--  Mem dump, Timeline reconstruction, Evidence collection, Case building  
--  IDA, OLIdbg, dotPeek
-
-
-
-
-
-
