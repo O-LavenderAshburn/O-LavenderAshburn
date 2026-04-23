@@ -18,23 +18,6 @@ Beyond testing and security, I enjoy full-stack development, working with React,
   <img src="images/spotify.svg" width="160" height="40" alt="Spotify"> </img>
 </a>
 
----
-## Currently working on 
-- QUIC Protocol Optimization
-- [Notification integration project](https://github.com/O-LavenderAshburn/GitFisher) 
-- [Shadow Shodan, A lightweight Shodan API Interface](https://github.com/O-LavenderAshburn/ShadowShodan)
-- [SpyGlass, IP reputation reslover](https://github.com/O-LavenderAshburn/0x53pyglass)
----
-
 ## Written Work
 - [Malware Analysis](https://github.com/O-LavenderAshburn/Knowledgebase_MalwareAnalysis)
 - [Bluetooth Low Energy, Healthcare IoT Implementation](https://github.com/O-LavenderAshburn/HeathcareBLETermPaper)
-
-## Technologies
-
-### "Good" At
--  Python • TypeScript • Java
-
-### Other Programming & Scripting Languages
--  C / C++ •  Bash  • JavaScript
--  • Ruby • Assembly (x86, x64)
